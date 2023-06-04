@@ -1,0 +1,241 @@
+{
+    "name": "Subhendu Mondal",
+    "imgUrl": "",
+    "position": "Senior Software Engineer",
+    "totalExpInMonth": "72",
+    "Address": {
+        "address1": "Srikrishnapur",
+        "address2": "Amdohi",
+        "city": "Durgapur",
+        "addressCodeType": "pin",
+        "addressCode": "713381",
+        "areaType": "state",
+        "area": "West Bengal",
+        "country": "India"
+    },
+    "contacts": {
+        "phone_number1": "+91 8670 533 145",
+        "phone_number2": "",
+        "email": "subhendu93@hotmail.com"
+    },
+    "skills": [ "Java", "MERN Stack", "Nodejs", "React", "Python"],
+    "certifications": [
+        {
+            "title": "Machine Learning in JavaScript with TensorFlow.js",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-286fa368-5f8c-47d4-bbcc-136c5219bea2",
+            "url": "https://www.udemy.com/certificate/UC-286fa368-5f8c-47d4-bbcc-136c5219bea2/"
+        },
+        {
+            "title": "Remix.js - The Practical Guide",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-ac0d14ee-bea9-4ab0-b1ba-f7ee82f36951",
+            "url": "https://www.udemy.com/certificate/UC-ac0d14ee-bea9-4ab0-b1ba-f7ee82f36951/"
+        },
+        {
+            "title": "Master Java Unit Testing with Spring Boot & Mockito",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-a983b243-f870-424c-b032-bad94b984782",
+            "url": "https://www.udemy.com/certificate/UC-a983b243-f870-424c-b032-bad94b984782/"
+        },
+        {
+            "title": "GraphQL",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-000b83e2-c790-4406-b179-3218b6ec16e0",
+            "url": "https://www.udemy.com/certificate/UC-000b83e2-c790-4406-b179-3218b6ec16e0/"
+        },
+        {
+            "title": "Advanced Javascript",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-48527d18-7a10-4507-a80b-142700d393eb",
+            "url": "https://www.udemy.com/certificate/UC-48527d18-7a10-4507-a80b-142700d393eb/"
+        },
+        {
+            "title": "JavaScript (Intermediate) Certificate",
+            "certProvider": "Hackerrank",
+            "certificationCode": "129b84d4a7a8",
+            "url": "https://www.hackerrank.com/certificates/129b84d4a7a8"
+        },
+        {
+            "title": "Nodejs Express - unit testing/integration tests with Jest",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-57e62923-71e2-4fed-ae74-0c07cb7f9122",
+            "url": "https://www.udemy.com/certificate/UC-57e62923-71e2-4fed-ae74-0c07cb7f9122/"
+        },
+        {
+            "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-9edcc685-d4a4-4d36-a907-aa310f2f6fe7",
+            "url": "https://www.udemy.com/certificate/UC-9edcc685-d4a4-4d36-a907-aa310f2f6fe7/"
+        },
+        {
+            "title": "Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-99f820aa-ab6f-4464-a0bb-d4f6eb80536f",
+            "url": "https://www.udemy.com/certificate/UC-99f820aa-ab6f-4464-a0bb-d4f6eb80536f/"
+        },
+        {
+            "title": "GitLab CI: Pipelines, CI/CD and DevOps for Beginners",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-e62a7646-9915-41ae-8da9-ed1085c3e11c",
+            "url": "https://www.udemy.com/certificate/UC-e62a7646-9915-41ae-8da9-ed1085c3e11c/"
+        },
+        {
+            "title": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-1883b8cf-07f5-480e-a5f7-5ac7ca830cad",
+            "url": "https://www.udemy.com/certificate/UC-1883b8cf-07f5-480e-a5f7-5ac7ca830cad/"
+        },
+        {
+            "title": "Go Java Full Stack with Spring Boot and React",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-YWB0IIU2",
+            "url": "https://www.udemy.com/certificate/UC-YWB0IIU2/"
+        },
+        {
+            "title": "Spring Framework Master Class - Java Spring the Modern Way",
+            "certProvider": "Udemy",
+            "certificationCode": "UC-4B5W0C4Q",
+            "url": "https://www.udemy.com/certificate/UC-4B5W0C4Q/"
+        },
+        {
+            "title": "Python",
+            "certProvider": "Testdome",
+            "certificationCode": "q2whpvn9c1",
+            "url": "https://www.testdome.com/certificates/q2whpvn9c1"
+        }
+    ],
+    "experiences": [
+        {
+            "jobTitle": "Sr. SOFTWARE ENGINEER",
+            "companyName": "Paypal India.",
+            "location": "Bengaluru, Karnataka, India",
+            "isCurrentCompany": true,
+            "fromDate": "01/2022",
+            "endDate": "",
+            "roleDescription": "
+                As a skilled Software Engineer, I have been a valuable contributor to
+                the pp.com team. In this role, I have played a key part in building new
+                features and implementing marketing tools within an existing
+                application. My commitment to quality has made me an integral part
+                of the product development process, where I regularly enhance
+                existing code, write unit tests, and ensure product quality.
+                 In addition to my primary responsibilities, I am also involved in a
+                rotational on-call cadence, where I monitor live issues and address
+                them as needed. This role has given me the opportunity to develop a
+                deep understanding of the product and its users, and has honed my
+                skills in problem-solving and critical thinking.
+                 Overall, I take pride in my ability to work collaboratively with a team
+                while also being an independent problem solver. My dedication to
+                excellence, coupled with my technical skills and experience, make me
+                a strong candidate for any Software Engineering role.
+            "
+        },
+        {
+            "jobTitle": "Associate Projects",
+            "companyName": "Cognizant Technology Solutions.",
+            "location": "Kolkata, West Bengal, India",
+            "isCurrentCompany": false,
+            "fromDate": "05/2021",
+            "endDate": "01/2022",
+            "roleDescription": "
+                As a Senior Developer for a Fortune 500 company, I have been
+                instrumental in migrating legacy products to new, optimized versions.
+                Through my work on this project, I have demonstrated my extensive
+                development skills, including writing unit tests and ensuring client
+                requirements are met to the highest standard.
+                In addition to my technical expertise, I have also taken on a mentorship
+                role, working with junior team members to help them develop their
+                skills and achieve their goals. As a leader on the team, I have taken an
+                active role in organizational activities such as recruitment and training.
+                Overall, my commitment to excellence and my ability to lead and
+                mentor others make me a valuable asset to any team. My experience
+                in legacy product migration, coupled with my technical skills and
+                leadership abilities, position me well for any Senior Developer role.
+            "
+        },
+        {
+            "jobTitle": "Sr. WEB DEVELOPER",
+            "companyName": "Codeclouds IT Solutions Pvt. Ltd.",
+            "location": "Kolkata, West Bengal, India",
+            "isCurrentCompany": true,
+            "fromDate": "03/2018",
+            "endDate": "05/2021",
+            "roleDescription": "
+                As a Software Engineer, I have a proven track record of successfully redesigning legacy applications to meet modern needs. 
+                One such example is my work on an e-commerce solution that offers a one-touch payment gateway, order analytics/tracking, 
+                and a simplified deployment process with minimal technical knowledge. I detected several problems with the legacy application 
+                and determined that a microservice-based architecture was the optimal solution. Through my work, I successfully designed and 
+                implemented a new software architecture that reduced costs by almost 70% and increased turnaround time by almost 90%.
+                In addition to the architecture redesign, I also created two services and wrote packages that consumed them. 
+                As a DevOps Engineer for the application, I ensured that the application was deployed efficiently and maintained optimal 
+                performance. The success of this project has been documented in a use case study, which highlights the benefits of the new 
+                architecture and its impact on the e-commerce solution. Through my work on this project, I have demonstrated my technical 
+                expertise, problem-solving abilities, and commitment to excellence.Overall, my experience in software architecture redesign, 
+                coupled with my technical skills and DevOps expertise, make me a strong candidate for any Software Engineering role. I served 
+                as a senior developer on a product that offered a comprehensive solution for all the services provided by the organization. 
+                The application maintained client databases and provided a single sign-on feature for all other applications. 
+                I also managed payment and subscriptions for clients across all other applications. My responsibilities included 
+                leading a team of developers and ensuring timely delivery of features while maintaining high code quality. 
+                I designed the architecture and database schema, focused on creating scalable and secure features that provided a 
+                seamless experience for end-users. Overall, my contribution has increased the efficiency of the organization's operations, 
+                and my experience provided me with invaluable insights into developing robust and scalable applications.
+            "
+        },
+        {
+            "jobTitle": "Software Developer",
+            "companyName": "Digitron Systems.",
+            "location": "Kolkata, West Bengal, India",
+            "isCurrentCompany": true,
+            "fromDate": "06/2017",
+            "endDate": "03/2018",
+            "roleDescription": "
+                As a software developer, I have contributed to several significant
+                projects for the organization, including the reengineering and
+                refactoring of legacy products such as the payroll system for
+                Government subsidiaries in West Bengal, India. I was also
+                responsible for designing and building new, scalable applications to
+                cater to mostly government-oriented clients.
+                
+                In addition to development work, I have also analyzed and prepared
+                documentation for projects and products. My experience has enabled
+                me to contribute to building new desktop or machine-oriented utility
+                tools, which have helped transform regular manual work to a certain
+                automation level. This automation has enabled government
+                employees to work much faster, and throughputs have increased
+                significantly.
+
+                Throughout my tenure, I have focused on delivering high-quality
+                solutions that adhere to industry standards and regulations. My
+                experience has allowed me to develop a strong understanding of the
+                software development lifecycle, and I have contributed to every
+                aspect of it, from design to deployment.
+            "
+        },
+        {
+            "jobTitle": "Project Intern",
+            "companyName": "Wipro Technology.",
+            "location": "Kolkata, West Bengal, India",
+            "isCurrentCompany": true,
+            "fromDate": "02/2016",
+            "endDate": "05/2016",
+            "roleDescription": "
+                Install and configure Windows server. Create Group policies and user
+                management on Windows server.
+                Install Windows OS in many ways, like network install.
+                Writing programming script in Perl.
+                Configuring and Managing Cisco Router, Switch. Configuring many
+                different topologies.
+                Maintain computer networks and related computing environments like
+                computer hardware, systems software, applications software, and
+                other configurations.
+            "
+        },
+    ],
+    "links": [
+        {
+            "type": "linkedin",
+            "url": "https://www.linkedin.com/in/subhendumondal/"
+        }
+    ]
+}
